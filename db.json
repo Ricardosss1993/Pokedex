@@ -1,0 +1,1363 @@
+{
+    "pokemon": [
+      {
+        "numero":"001",
+        "nombre":"Bulbasaur",
+        "img":"https://github.com/Ricardosss1993/Pokedex/blob/master/img/01-Kanto/001-Bulbasaur.png",
+        "tipo 1":"Planta",
+        "tipo 2":"Veneno",
+        "ubicacion":"Ninguna",
+        "descripcion":"Una rara semilla fue plantada en su espalda al nacer. La planta brota y crece con este Pokémon." 
+      },
+      {
+        "numero":"002",
+        "nombre":"Ivysaur",
+        "img":"https://github.com/Ricardosss1993/Pokedex/blob/master/img/01-Kanto/002-Ivysaur.png",
+        "tipo 1":"Planta",
+        "tipo 2":"Veneno",
+        "ubicacion":"Ninguna",
+        "descripcion":"Cuando el bulbo de su espalda crece, parece no poder ponerse de pie sobre sus patas traseras." 
+      },
+      {
+        "numero":"003",
+        "nombre":"Venusaur",
+        "img":"https://github.com/Ricardosss1993/Pokedex/blob/master/img/01-Kanto/003-1%20Venusaur.png",
+        "tipo 1":"Planta",
+        "tipo 2":"Veneno",
+        "ubicacion":"Ninguna",
+        "descripcion":"La planta florece cuando absorbe energía solar. Ésta le obliga a ponerse en busca de la luz solar." 
+      },
+      {
+        "numero":"004",
+        "nombre":"Charmander",
+        "img":"https://github.com/Ricardosss1993/Pokedex/blob/master/img/01-Kanto/004-Charmander.png",
+        "tipo 1":"Fuego",
+        "tipo 2":"",
+        "ubicacion":"Ninguna",
+        "descripcion":"Prefiere los sitios calientes. Dicen que cuando llueve sale vapor de la punta de su cola." 
+      },
+      {
+        "numero":"005",
+        "nombre":"Charmeleon",
+        "img":"https://github.com/Ricardosss1993/Pokedex/blob/master/img/01-Kanto/005-Charmeleon.png",
+        "tipo 1":"Fuego",
+        "tipo 2":"",
+        "ubicacion":"Ninguna",
+        "descripcion":"Cuando está luchando su llama arde vivamente, esto eleva las temperaturas." 
+      },
+      {
+        "numero":"006",
+        "nombre":"Charizard",
+        "img":"https://github.com/Ricardosss1993/Pokedex/blob/master/img/01-Kanto/006-Charizard.png",
+        "tipo 1":"Fuego",
+        "tipo 2":"Volador",
+        "ubicacion":"Ninguna",
+        "descripcion":"Escupe fuego tan caliente que funde las rocas. Causa incendios forestales sin querer." 
+      },
+      {
+        "numero":"007",
+        "nombre":"Squirtle",
+        "img":"https://github.com/Ricardosss1993/Pokedex/blob/master/img/01-Kanto/007-Squirtle.png",
+        "tipo 1":"Agua",
+        "tipo 2":"",
+        "ubicacion":"Ninguna",
+        "descripcion":"Tras nacer, su espalda se hincha y endurece como una concha. Echa potente espuma por la boca." 
+      },
+      {
+        "numero":"008",
+        "nombre":"Wartortle",
+        "img":"https://github.com/Ricardosss1993/Pokedex/blob/master/img/01-Kanto/008-Wartortle.png",
+        "tipo 1":"Agua",
+        "tipo 2":"",
+        "ubicacion":"Ninguna",
+        "descripcion":"Se oculta en el agua para cazar a sus presas. Al nadar rápidamente, mueve sus orejas para nivelarse." 
+      },
+      {
+        "numero":"009",
+        "nombre":"Blastoise",
+        "img":"https://github.com/Ricardosss1993/Pokedex/blob/master/img/01-Kanto/009-Blastoise.png",
+        "tipo 1":"Agua",
+        "tipo 2":"",
+        "ubicacion":"Ninguna",
+        "descripcion":"Un brutal Pokémon con reactores de agua en su caparazón. Éstos son usados para rápidos placajes." 
+      },
+      {
+        "numero":"010",
+        "nombre":"Caterpie",
+        "img":"",
+        "tipo 1":"Bicho",
+        "tipo 2":"",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"011",
+        "nombre":"Metapod",
+        "img":"",
+        "tipo 1":"Bicho",
+        "tipo 2":"",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"012",
+        "nombre":"Butterfree",
+        "img":"",
+        "tipo 1":"Bicho",
+        "tipo 2":"Volador",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"013",
+        "nombre":"Weedle",
+        "img":"",
+        "tipo 1":"Bicho",
+        "tipo 2":"Veneno",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"014",
+        "nombre":"Kakuna",
+        "img":"",
+        "tipo 1":"Bicho",
+        "tipo 2":"Veneno",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"015",
+        "nombre":"Beedrill",
+        "img":"",
+        "tipo 1":"Bicho",
+        "tipo 2":"Veneno",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"016",
+        "nombre":"Pidgey",
+        "img":"",
+        "tipo 1":"Normal",
+        "tipo 2":"Volador",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"017",
+        "nombre":"Pidgeotto",
+        "img":"",
+        "tipo 1":"Normal",
+        "tipo 2":"Volador",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"018",
+        "nombre":"Pidgeot",
+        "img":"",
+        "tipo 1":"Normal",
+        "tipo 2":"Volador",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"019",
+        "nombre":"Rattata",
+        "img":"",
+        "tipo 1":"Normal",
+        "tipo 2":"",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"020",
+        "nombre":"Raticate",
+        "img":"",
+        "tipo 1":"Normal",
+        "tipo 2":"",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"021",
+        "nombre":"Spearow",
+        "img":"",
+        "tipo 1":"Normal",
+        "tipo 2":"Volador",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"022",
+        "nombre":"Fearow",
+        "img":"",
+        "tipo 1":"Normal",
+        "tipo 2":"Volador",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"023",
+        "nombre":"Ekans",
+        "img":"",
+        "tipo 1":"Veneno",
+        "tipo 2":"",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"024",
+        "nombre":"Arbok",
+        "img":"",
+        "tipo 1":"Veneno",
+        "tipo 2":"",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"025",
+        "nombre":"Pikachu",
+        "img":"",
+        "tipo 1":"Electrico",
+        "tipo 2":"",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"026",
+        "nombre":"Raichu",
+        "img":"",
+        "tipo 1":"Electrico",
+        "tipo 2":"",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"027",
+        "nombre":"Sandshrew",
+        "img":"",
+        "tipo 1":"Tierra",
+        "tipo 2":"",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"028",
+        "nombre":"Sandslash",
+        "img":"",
+        "tipo 1":"Tierra",
+        "tipo 2":"",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"029",
+        "nombre":"Nidoran♀",
+        "img":"",
+        "tipo 1":"Veneno",
+        "tipo 2":"",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"030",
+        "nombre":"Nidorina",
+        "img":"",
+        "tipo 1":"Veneno",
+        "tipo 2":"",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"031",
+        "nombre":"Nidoqueen",
+        "img":"",
+        "tipo 1":"Veneno",
+        "tipo 2":"Tierra",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"032",
+        "nombre":"Nidoran♂",
+        "img":"",
+        "tipo 1":"Veneno",
+        "tipo 2":"",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"033",
+        "nombre":"Nidorino",
+        "img":"",
+        "tipo 1":"Veneno",
+        "tipo 2":"",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"034",
+        "nombre":"Nidoking",
+        "img":"",
+        "tipo 1":"Veneno",
+        "tipo 2":"Tierra",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"035",
+        "nombre":"Clefairy",
+        "img":"",
+        "tipo 1":"Hada",
+        "tipo 2":"",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"036",
+        "nombre":"Clefable",
+        "img":"",
+        "tipo 1":"Hada",
+        "tipo 2":"",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"037",
+        "nombre":"Vulpix",
+        "img":"",
+        "tipo 1":"Fuego",
+        "tipo 2":"",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"038",
+        "nombre":"Ninetales",
+        "img":"",
+        "tipo 1":"Fuego",
+        "tipo 2":"",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"039",
+        "nombre":"Jigglypuff",
+        "img":"",
+        "tipo 1":"Normal",
+        "tipo 2":"Hada",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"040",
+        "nombre":"Wigglytuff",
+        "img":"",
+        "tipo 1":"Normal",
+        "tipo 2":"Hada",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"041",
+        "nombre":"Zubat",
+        "img":"",
+        "tipo 1":"Veneno",
+        "tipo 2":"Volador",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"042",
+        "nombre":"Golbat",
+        "img":"",
+        "tipo 1":"Veneno",
+        "tipo 2":"Volador",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"043",
+        "nombre":"Oddish",
+        "img":"",
+        "tipo 1":"Planta",
+        "tipo 2":"Veneno",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"044",
+        "nombre":"Gloom",
+        "img":"",
+        "tipo 1":"Planta",
+        "tipo 2":"Veneno",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"045",
+        "nombre":"Vileplume",
+        "img":"",
+        "tipo 1":"Planta",
+        "tipo 2":"Veneno",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"046",
+        "nombre":"Paras",
+        "img":"",
+        "tipo 1":"Bicho",
+        "tipo 2":"Planta",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"047",
+        "nombre":"Parasect",
+        "img":"",
+        "tipo 1":"Bicho",
+        "tipo 2":"Planta",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"048",
+        "nombre":"Venonat",
+        "img":"",
+        "tipo 1":"Bicho",
+        "tipo 2":"Veneno",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"049",
+        "nombre":"Venomoth",
+        "img":"",
+        "tipo 1":"Bicho",
+        "tipo 2":"Veneno",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"050",
+        "nombre":"Digglet",
+        "img":"",
+        "tipo 1":"Tierra",
+        "tipo 2":"",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"051",
+        "nombre":"Dugtrio",
+        "img":"",
+        "tipo 1":"Tierra",
+        "tipo 2":"",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"052",
+        "nombre":"Meowth",
+        "img":"",
+        "tipo 1":"Normal",
+        "tipo 2":"",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"053",
+        "nombre":"Persian",
+        "img":"",
+        "tipo 1":"Normal",
+        "tipo 2":"",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"054",
+        "nombre":"Psyduck",
+        "img":"",
+        "tipo 1":"Agua",
+        "tipo 2":"",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"055",
+        "nombre":"Golduck",
+        "img":"",
+        "tipo 1":"Agua",
+        "tipo 2":"",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"056",
+        "nombre":"Mankey",
+        "img":"",
+        "tipo 1":"Lucha",
+        "tipo 2":"",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"057",
+        "nombre":"Primeape",
+        "img":"",
+        "tipo 1":"Lucha",
+        "tipo 2":"",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"058",
+        "nombre":"Growlithe",
+        "img":"",
+        "tipo 1":"Fuego",
+        "tipo 2":"",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"059",
+        "nombre":"Arcanine",
+        "img":"",
+        "tipo 1":"Fuego",
+        "tipo 2":"",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"060",
+        "nombre":"Poliwag",
+        "img":"",
+        "tipo 1":"Agua",
+        "tipo 2":"",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"061",
+        "nombre":"Poliwhirl",
+        "img":"",
+        "tipo 1":"Agua",
+        "tipo 2":"",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"062",
+        "nombre":"Poliwrath",
+        "img":"",
+        "tipo 1":"Agua",
+        "tipo 2":"Lucha",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"063",
+        "nombre":"Abra",
+        "img":"",
+        "tipo 1":"Psiquico",
+        "tipo 2":"",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"064",
+        "nombre":"Kadabra",
+        "img":"",
+        "tipo 1":"Psiquico",
+        "tipo 2":"",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"065",
+        "nombre":"Alakazam",
+        "img":"",
+        "tipo 1":"Psiquico",
+        "tipo 2":"",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"066",
+        "nombre":"Machop",
+        "img":"",
+        "tipo 1":"Lucha",
+        "tipo 2":"",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"067",
+        "nombre":"Machoke",
+        "img":"",
+        "tipo 1":"Lucha",
+        "tipo 2":"",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"068",
+        "nombre":"Machamp",
+        "img":"",
+        "tipo 1":"Lucha",
+        "tipo 2":"",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"069",
+        "nombre":"Bellsprout",
+        "img":"",
+        "tipo 1":"Planta",
+        "tipo 2":"Veneno",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"070",
+        "nombre":"Weepinbell",
+        "img":"",
+        "tipo 1":"Planta",
+        "tipo 2":"Veneno",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"071",
+        "nombre":"Victreebel",
+        "img":"",
+        "tipo 1":"Planta",
+        "tipo 2":"Veneno",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"072",
+        "nombre":"Tentacool",
+        "img":"",
+        "tipo 1":"Agua",
+        "tipo 2":"Veneno",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"073",
+        "nombre":"Tentacruel",
+        "img":"",
+        "tipo 1":"Agua",
+        "tipo 2":"Veneno",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"074",
+        "nombre":"Geodude",
+        "img":"",
+        "tipo 1":"Roca",
+        "tipo 2":"Tierra",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"075",
+        "nombre":"Graveler",
+        "img":"",
+        "tipo 1":"Roca",
+        "tipo 2":"Tierra",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"076",
+        "nombre":"Golem",
+        "img":"",
+        "tipo 1":"Roca",
+        "tipo 2":"Tierra",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"077",
+        "nombre":"Ponyta",
+        "img":"",
+        "tipo 1":"Fuego",
+        "tipo 2":"",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"078",
+        "nombre":"Rapidash",
+        "img":"",
+        "tipo 1":"Fuego",
+        "tipo 2":"",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"079",
+        "nombre":"Slowpoke",
+        "img":"",
+        "tipo 1":"Agua",
+        "tipo 2":"Psiquico",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"080",
+        "nombre":"Slowbro",
+        "img":"",
+        "tipo 1":"Agua",
+        "tipo 2":"Psiquico",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"081",
+        "nombre":"Magnemite",
+        "img":"",
+        "tipo 1":"Electrico",
+        "tipo 2":"Acero",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"082",
+        "nombre":"Magneton",
+        "img":"",
+        "tipo 1":"Electrico",
+        "tipo 2":"Acero",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"083",
+        "nombre":"Farfetch'd",
+        "img":"",
+        "tipo 1":"Normal",
+        "tipo 2":"Volador",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"084",
+        "nombre":"Doduo",
+        "img":"",
+        "tipo 1":"Normal",
+        "tipo 2":"Volador",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"085",
+        "nombre":"Dodrio",
+        "img":"",
+        "tipo 1":"Normal",
+        "tipo 2":"Volador",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"086",
+        "nombre":"Seel",
+        "img":"",
+        "tipo 1":"Agua",
+        "tipo 2":"",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"087",
+        "nombre":"Dewgong",
+        "img":"",
+        "tipo 1":"Agua",
+        "tipo 2":"Hielo",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"088",
+        "nombre":"Grimer",
+        "img":"",
+        "tipo 1":"Veneno",
+        "tipo 2":"",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"089",
+        "nombre":"Muk",
+        "img":"",
+        "tipo 1":"Veneno",
+        "tipo 2":"",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"090",
+        "nombre":"Shellder",
+        "img":"",
+        "tipo 1":"Agua",
+        "tipo 2":"",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"091",
+        "nombre":"Cloyster",
+        "img":"",
+        "tipo 1":"Agua",
+        "tipo 2":"Hielo",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"092",
+        "nombre":"Gastly",
+        "img":"",
+        "tipo 1":"Fantasma",
+        "tipo 2":"Veneno",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"093",
+        "nombre":"Haunter",
+        "img":"",
+        "tipo 1":"Fantasma",
+        "tipo 2":"Veneno",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"094",
+        "nombre":"Gengar",
+        "img":"",
+        "tipo 1":"Fantasma",
+        "tipo 2":"Veneno",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"095",
+        "nombre":"Onix",
+        "img":"",
+        "tipo 1":"Roca",
+        "tipo 2":"Tierra",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"096",
+        "nombre":"Drowzee",
+        "img":"",
+        "tipo 1":"Psiquico",
+        "tipo 2":"",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"097",
+        "nombre":"Hypno",
+        "img":"",
+        "tipo 1":"Psiquico",
+        "tipo 2":"",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"098",
+        "nombre":"Krabby",
+        "img":"",
+        "tipo 1":"Agua",
+        "tipo 2":"",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"099",
+        "nombre":"Kingler",
+        "img":"",
+        "tipo 1":"Agua",
+        "tipo 2":"",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"100",
+        "nombre":"Voltorb",
+        "img":"",
+        "tipo 1":"Electrico",
+        "tipo 2":"",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"101",
+        "nombre":"Electrode",
+        "img":"",
+        "tipo 1":"Electrico",
+        "tipo 2":"",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"102",
+        "nombre":"Exeggcute",
+        "img":"",
+        "tipo 1":"Planta",
+        "tipo 2":"Psiquico",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"103",
+        "nombre":"Exeggutor",
+        "img":"",
+        "tipo 1":"Planta",
+        "tipo 2":"Psiquico",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"104",
+        "nombre":"Cubone",
+        "img":"",
+        "tipo 1":"Tierra",
+        "tipo 2":"",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"105",
+        "nombre":"Marowak",
+        "img":"",
+        "tipo 1":"Tierra",
+        "tipo 2":"",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"106",
+        "nombre":"Hitmonlee",
+        "img":"",
+        "tipo 1":"Lucha",
+        "tipo 2":"",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"107",
+        "nombre":"Hitmonchan",
+        "img":"",
+        "tipo 1":"Lucha",
+        "tipo 2":"",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"108",
+        "nombre":"Lickytung",
+        "img":"",
+        "tipo 1":"Normal",
+        "tipo 2":"",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"109",
+        "nombre":"Koffing",
+        "img":"",
+        "tipo 1":"Veneno",
+        "tipo 2":"",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"110",
+        "nombre":"Weezing",
+        "img":"",
+        "tipo 1":"Veneno",
+        "tipo 2":"",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"111",
+        "nombre":"Rhyhorn",
+        "img":"",
+        "tipo 1":"Tierra",
+        "tipo 2":"Roca",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"112",
+        "nombre":"Rhydon",
+        "img":"",
+        "tipo 1":"Tierra",
+        "tipo 2":"Roca",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"113",
+        "nombre":"Chansey",
+        "img":"",
+        "tipo 1":"Normal",
+        "tipo 2":"",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"114",
+        "nombre":"Tangela",
+        "img":"",
+        "tipo 1":"Planta",
+        "tipo 2":"",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"115",
+        "nombre":"Kangaskhan",
+        "img":"",
+        "tipo 1":"Normal",
+        "tipo 2":"",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"116",
+        "nombre":"Horsea",
+        "img":"",
+        "tipo 1":"Agua",
+        "tipo 2":"",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"117",
+        "nombre":"Seadra",
+        "img":"",
+        "tipo 1":"Agua",
+        "tipo 2":"",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"118",
+        "nombre":"Goldeen",
+        "img":"",
+        "tipo 1":"Agua",
+        "tipo 2":"",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"119",
+        "nombre":"Seaking",
+        "img":"",
+        "tipo 1":"Agua",
+        "tipo 2":"",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"120",
+        "nombre":"Staryu",
+        "img":"",
+        "tipo 1":"Agua",
+        "tipo 2":"",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"121",
+        "nombre":"Starmie",
+        "img":"",
+        "tipo 1":"Agua",
+        "tipo 2":"",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"122",
+        "nombre":"Mr.Mime",
+        "img":"",
+        "tipo 1":"Psiquico",
+        "tipo 2":"",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"123",
+        "nombre":"Scyther",
+        "img":"",
+        "tipo 1":"Bicho",
+        "tipo 2":"Volador",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"124",
+        "nombre":"Jinx",
+        "img":"",
+        "tipo 1":"Hielo",
+        "tipo 2":"Psiquico",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"125",
+        "nombre":"Electabuzz",
+        "img":"",
+        "tipo 1":"Electrico",
+        "tipo 2":"",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"126",
+        "nombre":"Magmar",
+        "img":"",
+        "tipo 1":"Fuego",
+        "tipo 2":"",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"127",
+        "nombre":"Pinsir",
+        "img":"",
+        "tipo 1":"Bicho",
+        "tipo 2":"",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"128",
+        "nombre":"Tauros",
+        "img":"",
+        "tipo 1":"Normal",
+        "tipo 2":"",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"129",
+        "nombre":"Magikarp",
+        "img":"",
+        "tipo 1":"Agua",
+        "tipo 2":"",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"130",
+        "nombre":"Gyarados",
+        "img":"",
+        "tipo 1":"Agua",
+        "tipo 2":"Volador",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"131",
+        "nombre":"Lapras",
+        "img":"",
+        "tipo 1":"Agua",
+        "tipo 2":"Hielo",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"132",
+        "nombre":"Ditto",
+        "img":"",
+        "tipo 1":"Normal",
+        "tipo 2":"",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"133",
+        "nombre":"Eevee",
+        "img":"",
+        "tipo 1":"Normal",
+        "tipo 2":"",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"134",
+        "nombre":"Vaporeon",
+        "img":"",
+        "tipo 1":"Agua",
+        "tipo 2":"",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"135",
+        "nombre":"Jolteon",
+        "img":"",
+        "tipo 1":"Electrico",
+        "tipo 2":"",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"136",
+        "nombre":"Flareon",
+        "img":"",
+        "tipo 1":"Fuego",
+        "tipo 2":"",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"137",
+        "nombre":"Porygon",
+        "img":"",
+        "tipo 1":"Normal",
+        "tipo 2":"",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"138",
+        "nombre":"Omanity",
+        "img":"",
+        "tipo 1":"Roca",
+        "tipo 2":"Agua",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"139",
+        "nombre":"Omastar",
+        "img":"",
+        "tipo 1":"Roca",
+        "tipo 2":"Agua",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"140",
+        "nombre":"Kabuto",
+        "img":"",
+        "tipo 1":"Roca",
+        "tipo 2":"Agua",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"141",
+        "nombre":"Kabutops",
+        "img":"",
+        "tipo 1":"Roca",
+        "tipo 2":"Agua",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"142",
+        "nombre":"Aerodactyl",
+        "img":"",
+        "tipo 1":"Roca",
+        "tipo 2":"Volador",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"143",
+        "nombre":"Snorlax",
+        "img":"",
+        "tipo 1":"Normal",
+        "tipo 2":"",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"144",
+        "nombre":"Articuno",
+        "img":"",
+        "tipo 1":"Hielo",
+        "tipo 2":"Volador",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"145",
+        "nombre":"Zapdos",
+        "img":"",
+        "tipo 1":"Electrico",
+        "tipo 2":"Volador",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"146",
+        "nombre":"Moltres",
+        "img":"",
+        "tipo 1":"Fuego",
+        "tipo 2":"Volador",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"147",
+        "nombre":"Dratini",
+        "img":"",
+        "tipo 1":"Dragon",
+        "tipo 2":"",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"148",
+        "nombre":"Dragonair",
+        "img":"",
+        "tipo 1":"Dragon",
+        "tipo 2":"",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"149",
+        "nombre":"Dragonite",
+        "img":"",
+        "tipo 1":"Dragon",
+        "tipo 2":"Volador",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"150",
+        "nombre":"Mewtwo",
+        "img":"",
+        "tipo 1":"Psiquico",
+        "tipo 2":"",
+        "ubicacion":"",
+        "descripcion":"" 
+      },
+      {
+        "numero":"151",
+        "nombre":"Mew",
+        "img":"",
+        "tipo 1":"Psiquico",
+        "tipo 2":"",
+        "ubicacion":"",
+        "descripcion":"" 
+      }
+    ]
+  }
