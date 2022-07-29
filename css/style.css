@@ -1,0 +1,139 @@
+.titulo{   
+    color: white;
+    text-align: center;
+}
+
+body{
+    
+}
+
+header{
+    
+}
+.kantoDex{
+    display: flex;
+    justify-content: center;
+
+}
+
+.kantoDex__div{
+    width: 500px;
+    height: 370px;
+    padding: 15px;
+    height: 460px;
+    border-radius: 10px;
+    overflow: auto;
+    background-color: brown;
+    border-style: solid;
+    border-color: black;
+
+}
+
+.btnRegiones .tabla1{
+    justify-content: space-between;
+   
+}
+
+.btnRegiones__lista{
+    display: flex;
+    justify-content: center;
+}
+
+.btnRegion__link{
+    
+    font-size: 20px;
+    list-style: none;
+    margin-left: 30px;
+}
+
+.dividir{
+    display: flex;
+
+    
+}
+.div2{
+    width: 500px;
+    height: 370px;
+    padding: 15px;
+    height: 460px;
+    border-radius: 0 10px 10px 0; 
+    overflow: auto;
+    background-color: brown;
+    border-style: solid;
+    border-color: black;
+} 
+
+.tablaprueba{
+    display: flex;
+    background-color: #894036;
+    height: 350px;
+    width: 500px;
+    border-radius: 10px;
+    border-style: solid;
+}
+
+.img__pokemon{
+    position: absolute;
+    height: 300px;
+}
+
+.img__type{
+    position: absolute;
+    height: 100px;
+    margin-left: 350px;
+    margin-top: 10px;
+}
+
+.img__type1{
+    position: absolute;
+    height: 100px;
+    margin-left: 300px;
+    display: block;
+    margin-top: 10px;
+}
+
+.img__type2{
+    position: absolute;
+    height: 100px;
+    margin-left: 400px;
+    display: block;
+    margin-top: 10px;
+}
+
+.nombre__pokemon{
+    color: #ffffff;
+    position: absolute;
+    margin-top: 300px;
+    margin-left: 100px;
+}
+
+.bton__forma-regional{
+    position: absolute;
+    
+    margin-top: 110px;
+    margin-left: 350px;
+    border-radius: 100%;
+}
+
+.bton__mega-evolucion{
+    position: absolute;
+    
+    margin-top: 200px;
+    margin-left: 300px;
+    border-radius: 100%;
+}
+
+.bton__gigantamax{
+    position: absolute;
+    
+    margin-top: 200px;
+    margin-left: 400px;
+    border-radius: 100%;
+}
+
+button{
+    background-color: transparent;
+}
+
+
+
