@@ -1,0 +1,149 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #224
+}
+html{
+    font-size: 26px;
+}
+
+
+.contenedorBolitas{
+    display: flex;
+    position: relative;
+    top: 1.5rem;
+    left: 5rem;
+}
+.bolitas{
+    margin: 0.5rem;
+    background-color: red;
+    border-radius: 50%;
+    z-index: 3;
+    width: 0.5rem;
+    aspect-ratio: 1/1;
+}
+.bolita1{
+    background-color: blue;
+}
+.bolita2{
+    background-color: green;
+}
+
+
+.regiones_link{
+    position: relative;
+    top: 1.5rem;
+    padding: 0.2rem;
+    text-decoration: none;
+    background: linear-gradient(to top right, rgb(165, 22, 22), rgb(165, 42, 42),  rgb(165, 22, 22));
+    font-size: 40px;
+    border-top-right-radius: 20px ;
+    border-top-left-radius: 20px;
+    /* border: black 4px solid; */
+    color: transparent;
+    z-index: -1;
+    text-shadow: 1px 1px 1px rgb(150, 75, 75);
+}
+.cabecera{
+    display: flex;
+    flex-direction: column;
+    
+}
+.regiones{
+    display: flex;
+    justify-content:center;
+    border: 20px;
+}
+
+.cabecera_titulo{
+    text-align: center;
+    color: #ddb;
+
+}
+
+.container{
+    background: brown;
+    width: 80vw;
+    aspect-ratio: 2/1;
+    padding: 5vw;
+    margin-left: 5vw;
+    display: flex;
+    justify-content: space-evenly;
+    border-radius: 10px;
+    box-shadow: 1rem 1rem 1rem #222;
+}
+
+.cards{
+    background-color: rgb(119, 27, 27);
+    width: 35vw;
+    border-radius: 20px;
+    border: black 4px solid;
+    height: 35vw;
+}
+
+.infoContainer{
+    display: flexbox;
+    flex-wrap: wrap;
+    background-color: rgb(119, 27, 27);
+    width: 35vw;
+    border: black 4px solid;
+    border-radius: 20px;
+    height: 35vw;
+}
+.infoContainer_mitadSuperior{
+    display: flex;
+}
+.infoContainer_mitadInferior{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+
+}
+
+.info_nombre{
+    text-align: center ;
+    background-color: gray;
+
+
+}
+
+.info_img{
+    background-color: aqua;
+    width: 15vw;
+    height: 15vw;
+    margin: 50px;
+
+}
+
+.info_tipos{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.info_tipo1{
+    width: 5vw;
+    height: 5vw;
+    background-color: chartreuse;
+
+}
+
+.info_tipo2{
+    width: 5vw;
+    height: 5vw;
+    background-color: chartreuse;
+}
+
+.info_ubicacion{
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+
+}
+
+.info_descripcion{
+    background-color: #9D9;
+    color: #ddb;
+}
+
